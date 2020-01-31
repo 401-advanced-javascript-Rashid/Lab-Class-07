@@ -26,5 +26,4 @@ describe('logger middleware', () => {
     loggerMiddleware(req, res, next);
     expect(next).toHaveBeenCalledWith();
   });
-
 });
