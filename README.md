@@ -8,8 +8,8 @@ Express. js is a Node. js web application server framework, designed for buildin
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd] (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-07/commit/4f65c37980cd60e258c7b1840ea4a7bc091fcd59)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/Lab-Class-07/runs/419778738?check_suite_focus=true)
 
 ## Setup
 
